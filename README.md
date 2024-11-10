@@ -1,0 +1,1 @@
+This project analyzes company expenditure data, focusing on the total spend by region, vendor, and time period. The goal is to provide insights into spending patterns and highlight areas of potential cost savings.
